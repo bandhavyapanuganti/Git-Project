@@ -12,3 +12,4 @@
 
   7. Commit some changes in the Hotfix branch and merge it into the Production as well as the Integration branch"
 
+Hello
